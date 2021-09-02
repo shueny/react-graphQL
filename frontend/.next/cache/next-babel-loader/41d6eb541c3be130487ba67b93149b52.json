@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Page from \"./Page\";\nexport { Page };","map":{"version":3,"sources":["/Users/shueny/Documents/react-graphQL/frontend/components/index.js"],"names":["Page"],"mappings":"AAAA,OAAOA,IAAP,MAAiB,QAAjB;AAEA,SAASA,IAAT","sourcesContent":["import Page from \"./Page\";\n\nexport { Page };\n"]},"metadata":{},"sourceType":"module"}
